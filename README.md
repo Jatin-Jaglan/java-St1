@@ -18,3 +18,6 @@
 15. Good Pairs 
 16. Sort Vowels in a String 
 17. Matrix Diagonal Sum 
+
+
+## oor koi code exam me nhi chla to meri glti nhi apna khud dekho 
